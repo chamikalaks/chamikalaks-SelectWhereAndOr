@@ -1,0 +1,1 @@
+select * from employee where salary > 50000 and NOT first_name = 'Steve';  
